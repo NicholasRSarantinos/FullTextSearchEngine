@@ -10,6 +10,8 @@ The application relies on [RapidJSON](https://github.com/Tencent/rapidjson), [Bo
 
 Please modify the file definitions.h to your requirements.
 
+The code we used to benchmark Lucene and compare it's performance with out application is also available. This application depends on [Lucene 7.1](https://lucene.apache.org/core/) and [google gson](https://github.com/google/gson).
+
 ## License
 
 This project is licensed under the MIT License.
